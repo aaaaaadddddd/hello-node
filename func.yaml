@@ -22,4 +22,4 @@ deploy:
     liveness: /health/liveness
     readiness: /health/readiness
 
-# func deploy --remote --registry luojie22 --git-url "https://github.com/aaaaaadddddd/hello-node.git"
+# 执行命令：func deploy --remote --registry luojie22 --git-url "https://github.com/aaaaaadddddd/hello-node.git"
