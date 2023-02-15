@@ -2,6 +2,7 @@ specVersion: 0.35.0
 name: hello-node
 runtime: node
 registry: luojie22
+registry: aaaaaadddddd
 image: ""
 imageDigest: ""
 created: 2023-02-14T22:01:02.892817+08:00
