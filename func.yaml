@@ -5,10 +5,10 @@ registry: luojie22
 image: ""
 imageDigest: ""
 created: 2023-02-14T22:01:02.892817+08:00
-build:
-  buildpacks: []
-  builder: pack
-  buildEnvs: []
+build: git
+git:
+  url: https://github.com/aaaaaadddddd/hello-node.git
+  revision: main
 run:
   volumes: []
   envs: []
