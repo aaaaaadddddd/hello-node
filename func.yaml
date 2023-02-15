@@ -21,3 +21,5 @@ deploy:
   healthEndpoints:
     liveness: /health/liveness
     readiness: /health/readiness
+
+# func deploy --remote --registry luojie22 --git-url "https://github.com/aaaaaadddddd/hello-node.git"
