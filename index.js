@@ -26,7 +26,7 @@ const handle = async (context, body) => {
   } else if (context.method === 'GET') {
   // If the request is an HTTP GET, the context will include a query string, if it exists
   return {
-      query: "luojie-hello-world-v55555",
+      query: "luojie-hello-world-v6666",
     }
   } else {
     return { statusCode: 405, statusMessage: 'Method not allowed' };
